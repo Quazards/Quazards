@@ -30,7 +30,7 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
       <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
     </tr>
     <tr>
-      <td><a href="///https://bisniskomodo.itch.io/">Itch Page</td>
+      <td><a href="https://quazardz.itch.io/distracted">Itch Page</td>
       <td><a href="///https://bisniskomodo.itch.io/please-survive">Itch Page</td>
     </tr>
   </tbody>
