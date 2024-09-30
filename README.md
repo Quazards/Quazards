@@ -66,32 +66,3 @@ You can check and download games I've developed at (https://bisniskomodo.itch.io
     </tr>
   </tbody>
 </table>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%"><a href="https://xviig.itch.io/echoes-beneath">Echoes Beneath</a></th>
-      <th width="50%"><a href="https://bisniskomodo.itch.io/">Nightwalker</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/2b7225fe-1086-456b-917a-7137fba4ecec"/>
-   </td>
-      <td><img src="https://github.com/user-attachments/assets/b909409e-58b4-412f-9299-65c7fd2fa245"/>
-   </td>
-    </tr>
-    <tr>
-      <td valign="text-top">Echoes beneath is a 3D First Person Horror in which the players will experience a one of a kind journey traversing the depths of a sewer beneath France. Your main objective as the sewer worker is to repair leaking pipes and generators. I animated the character movement, crouch, monster chase, jumpscares and also created sound effect for the game.</td>
-      <td valign="text-top">Nightwalkers is a 2D platformer with punishing opponents as its main mechanic. Taking place in a near modern day future. You play as Luna, a nightwalker with your trusty katana, slashing enemies and parrying their attacks while exploring the beautiful yet mysterious city.I created character attack combo, parry animation, and sound effect for the game.<br></td>
-    </tr>
-    <tr>
-      <td><b>Types : Game Jam</br>Contribution : Animator and Sound Engineer</b></td>
-      <td><b>Types : Game Jam</br>Contribution : Animator and Sound Engineer</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://xviig.itch.io/echoes-beneathy">Itch Page</td>
-      <td><a href="https://bisniskomodo.itch.io/">Itch Page</td>
-    </tr>
-  </tbody>
-</table>
