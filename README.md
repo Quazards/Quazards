@@ -11,7 +11,7 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
   <thead>
     <tr>
       <th width="50%"><a href="///https://bisniskomodo.itch.io/">Distracted!</a></th>
-      <th width="50%"><a href="///https://bisniskomodo.itch.io/please-survive">Please Survive</a></th>
+      <th width="50%"><a href="///https://bisniskomodo.itch.io/please-survive">---</a></th>
     </tr>
   </thead>
   <tbody>
