@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Dzaky Radithya Nugroho
+![Distracted! Preview1](https://github.com/user-attachments/assets/feaea7a6-4863-4cce-9274-fbb3635691f9)# Hi, I'm Muhammad Dzaky Radithya Nugroho
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology. </br>
 // </br>
@@ -16,7 +16,8 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
   </thead>
   <tbody>
     <tr>
-      <td><img src="///https://github.com/user-attachments/assets/735f704f-0539-455a-8a75-d8300dac3b22"/>
+      <td><img src=/![Distracted! Preview1](https://github.com/user-attachments/assets/1a1fa984-958c-4122-ac69-6c50a7679d26)
+>
    </td>
       <td><img src="///https://github.com/user-attachments/assets/06147d37-3902-4eaa-a851-ca548fae0fba"/>
    </td>
