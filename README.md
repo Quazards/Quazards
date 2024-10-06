@@ -22,8 +22,8 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
    </td>
     </tr>
     <tr>
-      <td valign="text-top">---.</td>
-      <td valign="text-top"">---.<div></div></td>
+      <td valign="text-top">TBA</td>
+      <td valign="text-top"">TBA<div></div></td>
     </tr>
     <tr>
       <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
@@ -41,8 +41,8 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="///https://bisniskomodo.itch.io/lightning-boy">---</a></th>
-      <th width="50%"><a href="///https://bisniskomodo.itch.io/wee-land">----</a></th>
+      <th width="50%"><a href="///https://bisniskomodo.itch.io/lightning-boy">TBA</a></th>
+      <th width="50%"><a href="///https://bisniskomodo.itch.io/wee-land">TBA</a></th>
     </tr>
   </thead>
   <tbody>
@@ -53,8 +53,8 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
    </td>
     </tr>
     <tr>
-      <td valign="text-top">---.</td>
-      <td valign="text-top">---.<br></td>
+      <td valign="text-top">TBA</td>
+      <td valign="text-top">TBA<br></td>
     </tr>
     <tr>
       <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
