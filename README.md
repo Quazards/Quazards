@@ -16,7 +16,8 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
   </thead>
   <tbody>
     <tr>
-      <td><img src="/https://github.com/user-attachments/assets/1a1fa984-958c-4122-ac69-6c50a7679d26">
+      <td><img src="![Distracted! Preview1](https://github.com/user-attachments/assets/812487f6-ae67-42ec-9b0d-0fc38074247a)
+">
    </td>
       <td><img src="///https://github.com/user-attachments/assets/06147d37-3902-4eaa-a851-ca548fae0fba"/>
    </td>
