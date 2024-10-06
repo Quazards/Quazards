@@ -1,4 +1,4 @@
-![Distracted! Preview1](https://github.com/user-attachments/assets/feaea7a6-4863-4cce-9274-fbb3635691f9)# Hi, I'm Muhammad Dzaky Radithya Nugroho
+Hi, I'm Muhammad Dzaky Radithya Nugroho
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology. </br>
 // </br>
