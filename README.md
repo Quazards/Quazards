@@ -16,7 +16,7 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/b228dafa-87ff-4c7a-9986-83a7a7a1d10a"/>
+      <td><img src="https://github.com/user-attachments/assets/cab8b82d-5718-43f3-8a11-19d9d25800eb"/>
    </td>
       <td><img src="///https://github.com/user-attachments/assets/06147d37-3902-4eaa-a851-ca548fae0fba"/>
    </td>
@@ -30,7 +30,7 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
       <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
     </tr>
     <tr>
-      <td><a href="https://quazardz.itch.io/distracted">Itch Page</td>
+      <td><a href="--https://quazardz.itch.io/distracted">Project Link (TBA)</td>
       <td><a href="///https://bisniskomodo.itch.io/please-survive">Itch Page</td>
     </tr>
   </tbody>
