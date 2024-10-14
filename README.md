@@ -22,7 +22,7 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
    </td>
     </tr>
     <tr>
-      <td valign="text-top">Platformer</td>
+      <td valign="text-top">A platformer game where the player is tasked to collect 10 hearts to achieve victory</td>
       <td valign="text-top"">TBA<div></div></td>
     </tr>
     <tr>
