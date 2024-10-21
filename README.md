@@ -1,12 +1,9 @@
 Hi, I'm Muhammad Dzaky Radithya Nugroho
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology. </br>
-// </br>
-You can check and download games I've developed at (https://quazardz.itch.io/)
+</br>
 
-*All the GIFs are linked to their respective itch.io page*
-
-# Here are highlights from some of the games I made:
+# Projects I've done:
 <table width="100%">
   <thead>
     <tr>
@@ -22,12 +19,12 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
    </td>
     </tr>
     <tr>
-      <td valign="text-top">A platformer game where the player is tasked to collect 10 hearts to achieve victory</td>
-      <td valign="text-top"">TBA<div></div></td>
+      <td valign="text-top">A Platformer game where the player is tasked to collect 10 hearts to achieve victory</td>
+      <td valign="text-top"">A Top-Down Shooter game where the player is tasked to survive the swarm of enemies<div></div></td>
     </tr>
     <tr>
-      <td><a href="--https://quazardz.itch.io/distracted">Project Link</td>
-      <td><a href="///https://bisniskomodo.itch.io/please-survive">Project Link</td>
+      <td><a href="https://github.com/Quazards/2602201340-Platformer-Project/tree/main">Project Link</td>
+      <td><a href="https://github.com/Quazards/Top-Down-Project-2/tree/main">Project Link</td>
     </tr>
   </tbody>
 </table>
