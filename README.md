@@ -10,8 +10,8 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://quazardz.itch.io/distracted">Spacing Out</a></th>
-      <th width="50%"><a>TBA</a></th>
+      <th width="50%"><a>Spacing Out</a></th>
+      <th width="50%"><a>Swarmed</a></th>
     </tr>
   </thead>
   <tbody>
@@ -26,12 +26,8 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
       <td valign="text-top"">TBA<div></div></td>
     </tr>
     <tr>
-      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
-      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
-    </tr>
-    <tr>
-      <td><a href="--https://quazardz.itch.io/distracted">Project Link (TBA)</td>
-      <td><a href="///https://bisniskomodo.itch.io/please-survive">Itch Page</td>
+      <td><a href="--https://quazardz.itch.io/distracted">Project Link</td>
+      <td><a href="///https://bisniskomodo.itch.io/please-survive">Project Link</td>
     </tr>
   </tbody>
 </table>
