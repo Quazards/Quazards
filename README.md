@@ -11,14 +11,14 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
   <thead>
     <tr>
       <th width="50%"><a href="https://quazardz.itch.io/distracted">Spacing Out</a></th>
-      <th width="50%"><a href="///https://bisniskomodo.itch.io/please-survive">TBA</a></th>
+      <th width="50%"><a href="">TBA</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/cab8b82d-5718-43f3-8a11-19d9d25800eb"/>
    </td>
-      <td><img src="///https://github.com/user-attachments/assets/06147d37-3902-4eaa-a851-ca548fae0fba"/>
+      <td><img src="https://github.com/user-attachments/assets/24a5481c-efdc-4375-a09b-1b147a433a83"/>
    </td>
     </tr>
     <tr>
