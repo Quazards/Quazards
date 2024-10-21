@@ -11,7 +11,7 @@ You can check and download games I've developed at (https://quazardz.itch.io/)
   <thead>
     <tr>
       <th width="50%"><a href="https://quazardz.itch.io/distracted">Spacing Out</a></th>
-      <th width="50%"><a href="">TBA</a></th>
+      <th width="50%"><a>TBA</a></th>
     </tr>
   </thead>
   <tbody>
