@@ -20,7 +20,7 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
     </tr>
     <tr>
       <td valign="text-top">A Platformer game where the player is tasked to collect 10 hearts to achieve victory</td>
-      <td valign="text-top"">A Top-Down Shooter game where the player is tasked to survive the swarm of enemies<div></div></td>
+      <td valign="text-top"">A Top-Down Shooter game where the only objective is to survive the swarm of enemies<div></div></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Quazards/2602201340-Platformer-Project/tree/main">Project Link</td>
@@ -46,8 +46,8 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
    </td>
     </tr>
     <tr>
-      <td valign="text-top">A Rouguelike Card Game where the cards have two playable sides</td>
-      <td valign="text-top">A Tower Defense where you have to survive and defeat a horde of cards with you turrets<br></td>
+      <td valign="text-top">A Card Game where the cards have two playable sides</td>
+      <td valign="text-top">A Tower Defense game where the player have to defend against waves of cars by using turrets<br></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Quazards/Capstone-cardgame-project">Project Link</td>
