@@ -34,28 +34,24 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="///https://bisniskomodo.itch.io/lightning-boy">TBA</a></th>
-      <th width="50%"><a href="///https://bisniskomodo.itch.io/wee-land">TBA</a></th>
+      <th width="50%"><a>Twofolds</a></th>
+      <th width="50%"><a>RoadRage: Tower Defense</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="///https://github.com/user-attachments/assets/fb2d68c9-ced2-4645-ae55-993a4fe72207"/>
+      <td><img src="https://github.com/user-attachments/assets/c5081ea6-19fc-40fb-a7a9-8e0d32a700e3"/>
      </td>
-      <td><img src="///https://github.com/user-attachments/assets/d3e103ab-ea0f-43bd-8266-791af05a8f1c"/>
+      <td><img src="https://github.com/user-attachments/assets/839e7adf-2767-4299-bf22-06ffe795f6dd"/>
    </td>
     </tr>
     <tr>
-      <td valign="text-top">TBA</td>
-      <td valign="text-top">TBA<br></td>
+      <td valign="text-top">A Rouguelike Card Game where the cards have two playable sides</td>
+      <td valign="text-top">A Tower Defense where you have to survive and defeat a horde of cards with you turrets<br></td>
     </tr>
     <tr>
-      <td><b>Types : Solo Developer</br>Contribution : Game Programmer</b></td>
-      <td><b>Types : Team Group</br>Contribution : Game Programmer</b></td>
-    </tr>
-    <tr>
-      <td><a href="///https://bisniskomodo.itch.io/lightning-boy">Itch Page</td>
-      <td><a href="///https://bisniskomodo.itch.io/wee-land">Itch Page</td>
+      <td><a href="https://github.com/Quazards/Capstone-cardgame-project">Project Link</td>
+      <td><a href="https://github.com/Quazards/RoadRage--Tower-Defense">Project Link</td>
     </tr>
   </tbody>
 </table>
