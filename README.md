@@ -34,7 +34,7 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a>Twofolds</a></th>
+      <th width="50%"><a>Twofolds (WIP)</a></th>
       <th width="50%"><a>RoadRage: Tower Defense</a></th>
     </tr>
   </thead>
