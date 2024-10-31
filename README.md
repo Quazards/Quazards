@@ -1,6 +1,7 @@
 Hi, I'm Muhammad Dzaky Radithya Nugroho
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology. </br>
+I am a programmer, the software I mostly use is Unity, the programming language I mostly use is C#
 </br>
 
 # Projects I've done:
