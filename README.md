@@ -1,7 +1,7 @@
 Hi, I'm Muhammad Dzaky Radithya Nugroho
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology. </br>
-I am a programmer, the software I mostly use is Unity, the programming language I mostly use is C#
+I am a programmer, the software I mostly use is Unity, the programming language I mostly use is C#.
 </br>
 
 # Projects I've done:
@@ -16,12 +16,12 @@ I am a programmer, the software I mostly use is Unity, the programming language 
     <tr>
       <td><img src="https://github.com/user-attachments/assets/cab8b82d-5718-43f3-8a11-19d9d25800eb"/>
    </td>
-      <td><img src="https://github.com/user-attachments/assets/24a5481c-efdc-4375-a09b-1b147a433a83"/>
+      <td><img src="https://github.com/user-attachments/assets/3c11cea6-1097-452e-ad8e-bb0f690e327f"/>
    </td>
     </tr>
     <tr>
-      <td valign="text-top">A Platformer game where the player is tasked to collect 10 hearts to achieve victory</td>
-      <td valign="text-top"">A Top-Down Shooter game where the only objective is to survive the swarm of enemies<div></div></td>
+      <td valign="text-top">A Platformer game where the player is tasked to collect 10 hearts to achieve victory.</td>
+      <td valign="text-top"">A Top-Down Shooter game where the only objective is to survive the swarm of enemies.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Quazards/2602201340-Platformer-Project/tree/main">Project Link</td>
@@ -47,8 +47,8 @@ I am a programmer, the software I mostly use is Unity, the programming language 
    </td>
     </tr>
     <tr>
-      <td valign="text-top">A Card Game where the cards have two playable sides</td>
-      <td valign="text-top">A Tower Defense game where the player have to defend against waves of cars by using turrets<br></td>
+      <td valign="text-top">A Card Game where the cards have two playable sides.</td>
+      <td valign="text-top">A Tower Defense game where the player have to defend against waves of cars by using turrets.<br></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Quazards/Capstone-cardgame-project">Project Link</td>
