@@ -70,7 +70,7 @@ I am a programmer, the software I mostly use is Unity, the programming language 
     <tr>
       <td><img src="https://github.com/user-attachments/assets/c5081ea6-19fc-40fb-a7a9-8e0d32a700e3"/>
      </td>
-      <td><img src=""/>
+      <td></>
    </td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@ I am a programmer, the software I mostly use is Unity, the programming language 
       <td valign="text-top">-<br></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Quazards/Capstone-cardgame-project">Project Link</td>
+      <td><a href="https://github.com/Quazards/Endless-Runner-Platformer">Project Link</td>
       <td><a href="">--</td>
     </tr>
   </tbody>
