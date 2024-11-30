@@ -70,16 +70,16 @@ I am a programmer, the software I mostly use is Unity, the programming language 
     <tr>
       <td><img src="https://github.com/user-attachments/assets/9a5fa2a5-a417-43c3-9504-65e39d3ffd02"/>
      </td>
-      <td></>
+      <td><img src=/"https://github.com/user-attachments/assets/9a5fa2a5-a417-43c3-9504-65e39d3ffd02"/>
    </td>
     </tr>
     <tr>
       <td valign="text-top">An endless-runner-platformer game where the objective is to live and get the highest score.</td>
-      <td valign="text-top">-<br></td>
+      <td valign="text-top">TBA<br></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Quazards/Endless-Runner-Platformer">Project Link</td>
-      <td><a>--</td>
+      <td><a>TBA</td>
     </tr>
   </tbody>
 </table>
