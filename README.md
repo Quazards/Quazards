@@ -70,7 +70,7 @@ I am a programmer, the software I mostly use is Unity, the programming language 
     <tr>
       <td><img src="https://github.com/user-attachments/assets/9a5fa2a5-a417-43c3-9504-65e39d3ffd02"/>
      </td>
-      <td><img src=/"https://github.com/user-attachments/assets/9a5fa2a5-a417-43c3-9504-65e39d3ffd02"/>
+      <td></>
    </td>
     </tr>
     <tr>
