@@ -56,3 +56,30 @@ I am a programmer, the software I mostly use is Unity, the programming language 
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a>Counting Pigs</a></th>
+      <th width="50%"><a>-</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/c5081ea6-19fc-40fb-a7a9-8e0d32a700e3"/>
+     </td>
+      <td><img src=""/>
+   </td>
+    </tr>
+    <tr>
+      <td valign="text-top">An endless runner game where the objective is to live and get the highest score.</td>
+      <td valign="text-top">-<br></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Quazards/Capstone-cardgame-project">Project Link</td>
+      <td><a href="">--</td>
+    </tr>
+  </tbody>
+</table>
