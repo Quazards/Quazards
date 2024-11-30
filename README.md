@@ -68,18 +68,18 @@ I am a programmer, the software I mostly use is Unity, the programming language 
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/c5081ea6-19fc-40fb-a7a9-8e0d32a700e3"/>
+      <td><img src="https://github.com/user-attachments/assets/9a5fa2a5-a417-43c3-9504-65e39d3ffd02"/>
      </td>
       <td></>
    </td>
     </tr>
     <tr>
-      <td valign="text-top">An endless runner game where the objective is to live and get the highest score.</td>
+      <td valign="text-top">An endless-runner-platformer game where the objective is to live and get the highest score.</td>
       <td valign="text-top">-<br></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Quazards/Endless-Runner-Platformer">Project Link</td>
-      <td><a href="">--</td>
+      <td><a>--</td>
     </tr>
   </tbody>
 </table>
